@@ -18,7 +18,7 @@
   <br>
   🔬 I'm currently studying for a bachelor's degree in Math and Computer Science at UC San Diego.
   <br>
-  🔭 I'm working on implementing bundler rpc for <a link="https://eips.ethereum.org/EIPS/eip-4337">EIP 4337</a> , i.e., (account abstraction uisng alt mempool)
+  🔭 I'm working on implementing bundler rpc for <a link="https://eips.ethereum.org/EIPS/eip-4337">EIP 4337</a> , i.e., (account abstraction using alt mempool)
   <br>
   and researching the impact of private orderflow at the app-specific level at Nethermind.
   <br>
